@@ -1,1 +1,1 @@
-# formsRegistrationAndAuthorisationIK
+# formsRegistrationAndAuthorizationIK
