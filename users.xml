@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+
+
+    <user>
+        <login>bb</login>
+        <email>bb@bb.bb</email>
+        <name>bb</name>
+        <salt>fd90e5ce6a</salt>
+        <password_hash>83f4cc83c5ba11ab5d60dce37a8b2622</password_hash>
+
+        <session_key>eee0303795</session_key>
+    </user>
+    <user>
+        <login>aa</login>
+        <email>a@a.a</email>
+        <name>aa</name>
+        <salt>dbee5730be</salt>
+        <password_hash>6d9fdc3a4598dd8a89a6d699cb96ffb1</password_hash>
+        <session_key>d22d59549a</session_key>
+    </user>
+
+
+    <user>
+        <login>xx</login>
+        <email>xx@xx.x</email>
+        <name>xx</name>
+        <salt>90ff41984f</salt>
+        <password_hash>3456d546e57b2ee49d5cc1c9fc514645</password_hash>
+    <session_key>d5acc71e0e</session_key></user>
+
+
+    <user>
+        <login>ss</login>
+        <email>s@s.s</email>
+        <name>ss</name>
+        <salt>37c2fb40c0</salt>
+        <password_hash>48dbedfbc6f3141022b7cdfb6b8962e1</password_hash>
+    <session_key>b24b0fa05a</session_key></user>
+
+    <user>
+        <login>qq</login>
+        <email>q@q.q</email>
+        <name>qq</name>
+        <salt>b250d0f8ae</salt>
+        <password_hash>8cba8ef63242fc4062690d364e3c3a6e</password_hash>
+    <session_key>577f2e87f7</session_key></user>
+<user><login>rr</login><email>r@r.r</email><name>rr</name><salt>80c00beef0</salt><password_hash>0d91485fa69ae6714edc342bca4d24ab</password_hash><session_key>71ce91021f</session_key></user><user><login>tt</login><email>t@t.t</email><name>tt</name><salt>aac0b71f17</salt><password_hash>5ded658cea7b061c881ea93ecdeef765</password_hash></user><user><login>uu</login><email>u@u.u</email><name>uu</name><salt>3013e46ee0</salt><password_hash>95cee525c3c8cb3dab446e4595c1c999</password_hash><session_key>d0188c6d01</session_key></user><user><login>pp</login><email>pp@p.p</email><name>pp</name><salt>150424e70f</salt><password_hash>97420814bf61fe433cc21cba74e3ddb0</password_hash><session_key>7685368f7e</session_key></user></users>
